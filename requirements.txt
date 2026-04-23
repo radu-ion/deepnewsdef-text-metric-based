@@ -1,0 +1,6 @@
+stanza
+spacy
+trankit
+conllu
+numpy
+nltk

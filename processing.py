@@ -129,6 +129,7 @@ class TrankitProcessor(BaseProcessor):
 
         return SentenceList(sentences)
 
+
 class TextToCoNLLU:
     def __init__(self, processor: BaseProcessor):
         self.processor = processor
