@@ -1,0 +1,66 @@
+Programul Rabla: România și alte țări europene finanțează cu zeci de milioane de euro mașini care emit și de cinci ori mai mult CO2 decât declară producătorii
+
+Datele de emisii reale culese chiar de către producători de la mașinile noi din trafic și tocmai publicate de Comisia Europeană arată că există o diferență foarte mare între emisiile de CO2 declarate în urma testelor de laborator WLTP și cele înregistrate în traficul real
+România are o diferență medie de 30.4% pentru modelele monitorizate în anul 2023, semnificativ mai mare decât Ungaria (17.6%), Franța (19.73%), Germania (19.91%) sau Italia (21.03%)
+Programele de tip Rabla din fiecare țară se bazează pe datele declarate de producători pentru a finanța de la buget „reducerea” emisiilor de CO2, dar nu monitorizează de fapt deloc ce modele de mașini sunt scoase din circulație și nici emisiile reale ale acestora. România a cheltuit cu programul Rabla Clasic 2.66 miliarde de lei în ultimii 4 ani (538.5 milioane de euro).
+Cele mai mari diferențe se înregistrează la mașinile hibride, indiferent de producător: de la dublu la cinci ori mai mult CO2 emis în mod real
+Cele mai vândute modele din România depășesc consistent emisiile de CO2 cu valori de 20-30% și nu s-ar mai califica pentru Rabla Clasic
+Șoferii dezactivează sistemele Start-Stop ale mașinii pentru că îi deranjează în trafic. Conducătorii mașinilor plug-in hibrid merg preponderent cu motorul termic pentru că bateria se încarcă lent și nu au prize adaptate acasă sau la serviciu. Stilul de condus poate duce la diferențe și de 30% între emisiile de CO2 dintre țări diferite, iar infrastructura de transport și obiceiurile de condus se fac și ele responsabile de mult mai multă poluare în România, prin comparație cu Franța, Italia, Ungaria sau Germania.
+
+Toate acestea duc la diferențe uriașe între emisiile de CO2 înscrise în cartea de identitate a vehiculului și cele din trafic, chiar și atunci când se iau în calcul normele WLTP, introduse relativ recent în UE. În plus, există un lobby puternic din partea constructorilor de automobile pentru a amâna orice măsură care ar putea reduce în continuare emisiile totale de CO2 la nivel european - iată doar unele dintre concluziile unei investigații transfrontaliere bazată pe datele făcute publice de Comisia Europeană cu privire la emisiile reale de dioxid de carbon ale autoturismelor.
+
+Cum am ajuns să măsurăm emisiile reale unei mașini, după decenii în care am crezut pe cuvânt producătorii
+Pe 15 septembrie 2015, în urmă cu exact 10 ani, izbucnea scandalul Dieselgate: fabricantul german de mașini Volkswagen era prins că folosește un software prin care activa sistemele de control al emisiilor doar în timpul testelor de laborator, astfel încât autovehiculele respectau normele oficiale, dar în condiții reale de condus emisiile de dioxid de azot (NOx) erau de până la 40 de ori mai mari decât limitele legale.
+
+Efectele asupra sănătății oamenilor, în special din orașe, sunt devastatoare - se estimează că circa 10.000 de europeni mor prematur în fiecare an doar din cauza emisiilor diesel care depășesc valorile legale.
+
+După circa 16 miliarde de euro cheltuiți pe amenzi, despăgubiri și investiții în tehnologii „nepoluante”, Volkswagen tot nu reușește să scape de eticheta de poluator, deși investigațiile ulterioare au arătat că practica era larg răspândită în toată industria auto, cu emisii de 7-14 ori mai mari, în funcție de producător.
+
+Ca parte a măsurilor de prevenire a unor astfel de escrocherii, Comisia Europeană a instituit o nouă modalitate, mult mai complexă, de măsurare atât a emisiilor de CO2, cât și a noxelor. În locul ciclului NEDC folosit până în 2017, astăzi se utilizează un ciclu numit WLTP (Worldwide Harmonized Light Vehicles Test Procedure).
+
+WLTP oferă o procedură mai realistă, cu condiții de condus variate și mai apropiate de situațiile reale, inclusiv viteze variabile, accelerări și opriri frecvente. Dar nici acesta nu este de ajuns, astfel încât este completat de testul RDE (Real Driving Emissions), care măsoară emisiile efective de NOx în trafic real, cu senzori montați pe vehicul.
+
+De ce e importantă această modalitate de monitorizare în timp real a vehiculelor? Pentru că niciun test conceput în laborator nu poate replica modul și particularitățile condusului în lumea reală, iar acestea diferă chiar și de la țară la țară. Iar conform ultimelor date despre emisii, politicile publice luate pe baza testelor de laborator riscă să fie complet eronate.
+
+Cum se măsoară azi emisiile de CO2 ale mașinii tale noi și de ce contează asta pentru banii tăi și sănătatea ta
+Spre deosebire de noxe (aici includem oxizii de azot, dar și particulele microscopice PM 2.5 și PM10 cauzate de uzarea anvelopelor și a plăcuțelor de frânare, precum și alți poluanți), dioxidul de carbon nu are un efect direct semnificativ asupra sănătății oamenilor.
+
+Dar impactul său asupra climei este deja recunoscut, iar normele de depoluare pentru motoarele cu combustie internă se vor concentra în anii următori, odată cu norma Euro 7, mai mult pe noxele care omoară circa jumătate de milion de europeni pe an, iar nu pe CO2.
+
+Acesta se dorește a fi redus mai mult prin adoptarea de mașini hibride și electrice, pentru simplul motiv că dezvoltarea ICE (motoarelor cu combustie internă) reușește foarte greu să mai coboare cantitatea de CO2 emisă în urma arderii unui litru de carburant. De fapt, în ultimii 20 de ani, emisiile de CO2 de la autoturismele europene au stagnat și chiar au crescut ușor, deși toate celelalte surse de CO2 au înregistrat scăderi. Reducerea ușoară a acestor emisii totale în ultimii 4 ani este datorată vânzării unui număr tot mai mare de mașini electrice, iar nu îmbunătățirii motoarelor termice.
+
+Însă foarte multe dintre programele de schimbare a parcului auto, inclusiv programul Rabla de la noi, se bazează în principal sau chiar totalitate pe reducerea emisiilor de CO2, iar nu pe reducerea noxelor.
+
+De exemplu, în primii 8 ani de program Rabla din România, conta doar să casezi un automobil vechi, fără să existe vreo cerință cu privire la automobilul nou cumpărat.
+
+Din 2013 încoace, s-au acordat bonusuri doar pentru mașinile Euro 6 și anumite praguri mai reduse de CO2, iar din 2018 încoace au fost impuse praguri maxime obligatorii pentru mașinile noi care intrau în program. Treptat pragul maxim de CO2 a fost coborât la 155g/km în 2023, 150g/km în 2024 și 145g/km în 2025. Ghidul de anul acesta specifică în mod clar că însăși eficacitatea acestui program nu se măsoară în cantitatea de noxe reduse, ci în reducerea anuală a emisiilor de CO2.
+
+Din păcate, din acest moment intrăm pe teritoriul unei ficțiuni complete. Așa cum am arătat deja în două articole succesive, în România (și, deloc surprinzător, nici în Franța, Italia, Germania sau Ungaria, țări care fac parte din această investigație transfrontalieră) nu s-a măsurat niciodată în cei 20 de ani de existență a programului Rabla Clasic care este, de fapt, cantitatea de CO2 sau de noxe redusă ca urmare a casării automobilelor vechi și a cumpărării altora noi.
+
+
+În România, conform unui răspuns al Administrației Fondului pentru Mediu (AFM) pentru PressOne, nu se înregistrează public modelele de mașini care sunt casate, ci doar mărcile acestora și numărul de unități pe fiecare marcă. De asemenea, nu se înregistrează modelele și anul de producție al mașinilor noi cumpărate prin programul Rabla, ci doar numărul de unități pe fiecare marcă.
+
+
+Diferențele între modelele unei mărci sunt uriașe, așadar este absolut imposibil de calculat cantitatea de CO2 și de noxe eliminată prin casarea autovehiculelor vechi și diferența între aceasta și emisiile mașinilor noi. Se poate doar presupune că mașinile mai noi poluează mai puțin, în special având în vedere că AFM nu face publică lista modelelor exacte care au beneficiat de subvenții, însă performanța efectivă a cheltuirii banilor publici este imposibil de măsurat.
+
+Iar bani s-au cheltuit din plin: doar pe programul Rabla Clasic s-au plătit 2.66 miliarde de lei în ultimii 4 ani (538.5 milioane de euro)!
+
+Cele mai vândute modele din România: depășiri medii de 30% ale emisiilor de CO2 față de cele raportate în teste
+Comisia Europeană a publicat datele monitorizării a condusului real a milioane de autoturisme în ultimii 3 ani. Din această imensă bază de date, dacă ne uităm la cele mai vândute modele de mașini din România în 2023, remarcăm că acestea au depășiri semnificative ale emisiilor de CO2 față de cele raportate în sistemul WLTP. Mai mult, majoritatea depășesc în condiții de exploatare normală monitorizată OBFCM limita de 155g/km care le-ar fi calificat să fie finanțate prin programul Rabla în anul respectiv!
+
+
+Din cauză că AFM nu obligă producătorii să colecteze date privitoare la modelele noi vândute prin programul Rabla ci doar la numărul total de unități pe fiecare marcă, nu știm dacă acest clasament s-a regăsit în mod exact și în modelele vândute în 2023 prin acest program. Putem avea doar o imagine generală a ponderii acestora în cele 37.724 de unități care au beneficiat de banii publici în acel an.
+
+Dar aceste modele au înregistrat depășiri consistente ale valorilor de CO2 în exploatarea reală. Multe dintre ele nu s-ar mai fi calificat conform normelor WLTP (limită de 155 g/km CO2) - norme care se presupune că ar fi trebuit să redea cât mai fidel comportamentul motorului în situații de condus reale.
+
+Conform propriilor reguli ale AFM, toate aceste modele s-ar califica în continuare pentru banii publici, pentru că emisiile care le califică sunt calculate în sistemul WLTP, nu în cel RDE (real), însă în realitate plătim milioane de euro pentru automobile care au emisii semnificativ mai mari decât limita maximă de la care AFM calcula că am începe să facem o diferență „eco”.
+
+Aici nu mai este vorba însă de vreo rea-voință din partea constructorilor auto, ci de inabilitatea testelor WLTP de a surprinde realitatea condusului zilnic și particularitățile sale. Însă odată cu testele RDE înțelegem și magnitudinea problemei: în România, în 2023, automobilele noi incluse în testele de condus real emit în medie cu 30% mai mult CO2 decât scrie în cartea de identitate a vehiculului.
+
+parcurși pe întreaga durată a monitorizării.
+
+Datele sunt citite de producători în sistemul On-Board Fuel Consumption Monitoring (OBFCM), prin conexiune de tip „over-the-air” sau în timpul operațiunilor de întreținere sau reparație în reprezentanțele producătorilor, sau (începând din 2023) în cadrul Inspecției Tehnice Periodice. Informațiile sunt extrase din dispozitivele de monitorizare a consumului de combustibil și/sau energie instalate la bordul vehiculelor.
+
+Interesant este că România are o diferență medie semnificativ mai mare decât Ungaria (17.6%), Franța (19.73%), Germania (19.91%) sau Italia (21.03%).
+
+Aceasta poate fi explicată prin mai multe elemente: o eventuală calitate mai proastă a combustibilului, dar mai ales stilul diferit de condus, mult mai agresiv decât în celelalte țări, dezactivarea sistemului Start&Stop, păstrarea motorului termic pornit când mașina staționează, precum și parcurgerea unui număr mai mare de kilometri în regim urban față de țările vestice, în care șoferii fac naveta pe autostradă sau drumuri de mare viteză. Contează inclusiv ponderea modelelor care au depășiri mai mari la CO2 în totalul mașinilor noi vândute și monitorizate.

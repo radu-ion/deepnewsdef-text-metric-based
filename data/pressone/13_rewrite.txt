@@ -1,0 +1,21 @@
+Programele europene de stimulare a reînnoirii parcului auto, inclusiv binecunoscutul program Rabla din România, sunt construite pe o premisă simplă: înlocuirea mașinilor vechi cu unele noi ar trebui să reducă emisiile de carbon și să contribuie la un mediu mai curat. În practică însă, datele recente arată că această logică este mult mai fragilă decât pare.
+
+Informațiile colectate direct de la autoturisme aflate în trafic, analizate și publicate de Comisia Europeană, scot la iveală o diferență consistentă între emisiile de CO2 măsurate în laborator și cele generate în condiții reale de utilizare. Deși standardul WLTP a fost introdus tocmai pentru a reflecta mai fidel comportamentul mașinilor, realitatea din trafic continuă să contrazică valorile oficiale.
+
+România se remarcă în mod special în acest peisaj. Pentru modelele analizate în 2023, diferența medie dintre emisiile declarate și cele reale depășește 30%, mult peste nivelurile observate în alte state europene. Această discrepanță ridică întrebări serioase despre eficiența politicilor publice care se bazează exclusiv pe datele furnizate de producători.
+
+Problema devine și mai evidentă atunci când analizăm modul în care sunt finanțate programele de tip Rabla. Subvențiile sunt acordate pe baza emisiilor declarate în testele WLTP, fără a exista o verificare sistematică a performanței reale a vehiculelor după achiziție. În plus, lipsa unor date detaliate despre modelele casate și cele cumpărate face aproape imposibilă evaluarea impactului real al acestor programe asupra mediului.
+
+Situația este și mai complicată în cazul mașinilor hibride, care, în teorie, ar trebui să reducă semnificativ emisiile. În practică însă, acestea pot ajunge să emită de două până la cinci ori mai mult CO2 decât valorile oficiale, în funcție de modul în care sunt utilizate. De exemplu, mulți șoferi aleg să nu încarce regulat bateriile sau preferă să folosească motorul termic, ceea ce anulează avantajele tehnologice ale acestor vehicule.
+
+Comportamentul șoferilor joacă un rol esențial. Dezactivarea sistemelor Start-Stop, stilul de condus agresiv și utilizarea predominant urbană a mașinilor contribuie semnificativ la creșterea emisiilor reale. La acestea se adaugă factori precum infrastructura insuficientă pentru încărcarea vehiculelor electrice sau hibride și diferențele de calitate a combustibilului.
+
+Contextul actual nu poate fi înțeles fără a privi înapoi la scandalul Dieselgate, care a demonstrat cât de ușor pot fi manipulate testele de laborator. Deși industria auto a făcut progrese și au fost introduse metode mai complexe de testare, inclusiv măsurători în trafic real, discrepanțele persistă. Acest lucru sugerează că problema nu ține doar de intenția producătorilor, ci și de limitele metodologiilor de testare.
+
+În acest context, devine clar că politicile bazate exclusiv pe reducerea emisiilor de CO2 declarate riscă să fie ineficiente. Mai mult, accentul pus pe CO2 în detrimentul noxelor — care au un impact direct asupra sănătății — ridică alte semne de întrebare. În timp ce dioxidul de carbon influențează clima, poluanții precum oxizii de azot și particulele fine sunt responsabili pentru sute de mii de decese premature anual în Europa.
+
+Cu toate acestea, programele de finanțare continuă să prioritizeze indicatori care nu reflectă neapărat realitatea din trafic. În lipsa unor mecanisme de monitorizare post-vânzare și a unor criterii bazate pe performanța reală a vehiculelor, există riscul ca sume considerabile din bugetele publice să fie direcționate către soluții care nu aduc beneficiile promise.
+
+Datele recente sugerează că simpla înlocuire a unui autoturism vechi cu unul nou nu garantează o reducere semnificativă a emisiilor. Fără o înțelegere mai profundă a modului în care sunt utilizate vehiculele și fără politici adaptate la condițiile reale de trafic, obiectivele de mediu riscă să rămână doar pe hârtie.
+
+În final, provocarea nu este doar tehnologică, ci și sistemică. Este nevoie de o schimbare de paradigmă: de la încrederea oarbă în testele de laborator la o abordare bazată pe date reale, colectate continuu. Doar astfel pot fi construite politici eficiente, care să reducă cu adevărat poluarea și să justifice investițiile publice făcute în numele unui viitor mai curat.

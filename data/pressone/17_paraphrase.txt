@@ -1,0 +1,99 @@
+Sufletul inteligenței artificiale. Filosoful Constantin Vică afirmă că suntem fascinați de fluiditatea limbajului sistemelor AI și ajungem să percepem o „viață interioară” acolo unde aceasta nu există.
+
+În contextul dilemei Pentagon–Anthropic–OpenAI, despre care am scris anterior, dar și al discuțiilor despre agenți AI care concurează în conversații pe Moltbook sau al reflecțiilor privind dezvoltarea unor tehnologii aliniate valorilor umane, am întâlnit o serie de întrebări cu caracter mai mult sau mai puțin filosofic. Dintre acestea, una a revenit constant: problema sufletului AI-ului.
+
+Pornind de aici, l-am întrebat pe filosoful Constantin Vică despre existența acestui „suflet” al inteligenței artificiale. Este genul de interlocutor la care apelezi atunci când realitatea digitală devine dificil de înțeles și când ai nevoie de o analiză profundă.
+
+Doctor în filosofie, conferențiar la Facultatea de Filosofie și coordonator al masterului de Etică Aplicată – singurul program din România care include cursuri de Etica Inteligenței Artificiale și unde predă Etica tehnologiilor – Vică analizează de mult timp tehnologia printr-o lentilă filosofică, reflectând asupra principiilor etice care o însoțesc sau ar trebui să o însoțească.
+
+PressOne: Se discută tot mai des despre „sufletul” AI-ului. Ce reprezintă, în realitate, acest concept și ce responsabilitate avem în modelarea lui? Este ceva concret, definibil, sau doar o metaforă atrăgătoare?
+
+Constantin Vică: Tendința de a antropomorfiza conduce ușor la iluzie. Aș reformula întrebarea în stil cartezian, precum în „Meditația a șasea”: ce anume guvernează acest „suflet”, fiind mai mult decât un simplu conducător și intim legat de el? Este el esențial conectat de un corp, atât de strâns încât formează un tot unitar? Evident, în cazul AI, răspunsul este negativ.
+
+Indiferent cât de dualist ai fi, nu poți imagina un „suflet” ca entitate separată fără a-l lega de un corp, de o formă de încorporare și de o interacțiune organică cu lumea.
+
+Conceptul de suflet este unul vechi, provenit din filosofia platoniciană, dar care nu mai are relevanță conceptuală sau metodologică în științele moderne. Nici măcar în cazul oamenilor nu este sigur că există un suflet (deși ideea este utilă), iar existența unei minți distincte de creier rămâne discutabilă, putând fi doar un efect secundar al acestuia și al corpului integrat în lume.
+
+Ideea de suflet este, astfel, un vestigiu conceptual. Pentru dezvoltarea AI avem nevoie de alte concepte, deoarece aceste sisteme sunt, în esență, software care rulează pe computere. Ele sunt structuri complexe, funcționând ca sisteme sociotehnice, chiar dacă pot avea un anumit grad de autonomie. În realitate, AI depinde mai mult de oameni decât invers.
+
+PressOne: Cum crezi că a apărut această idee a „sufletului” inteligenței artificiale?
+
+În prezent, mai periculos decât orice alt risc – inclusiv cel existențial – este antropomorfizarea. Ajungem să atribuim suflet sau conștiință sistemelor AI deoarece acesta este un mecanism cognitiv uman: atunci când nu înțelegem comportamentul unui agent, apelăm la modelul cel mai familiar, adică mintea umană.
+
+Acest lucru este facilitat de faptul că chatbot-urile comunică fluent, dialoghează și oferă răspunsuri care par intenționate. Le atribuim intenții și stări mentale pentru a le putea înțelege și controla. Totuși, în esență, ele rămân sisteme statistice și predictive sofisticate, diferite fundamental de oameni sau de alte ființe.
+
+Frica de singurătate ne determină să căutăm conexiuni, iar astfel unii ajung să perceapă chatbot-urile ca persoane reale, confundând relațiile parasociale cu unele autentice.
+
+Empatia simulată și stilul conversațional apropiat de cel uman fac ca unele sisteme AI să fie percepute ca parteneri, consilieri sau chiar prieteni. Acest lucru poate duce la dezamăgire, încredere excesivă, atribuirea greșită a responsabilității, atașament emoțional și, uneori, chiar la tulburări psihice.
+
+Suntem seduși de fluența limbajului AI și ajungem să vedem o „viață interioară” inexistentă. Chiar și Descartes credea că ar putea fi înșelat de automate sofisticate, dar se baza pe incapacitatea lor lingvistică pentru a le demasca. Noi nu mai avem acest avantaj.
+
+PressOne: Vorbim despre aliniere, dar la ce anume ar trebui să se alinieze AI-ul? Cine stabilește valorile?
+
+Impunerea unor valori în mod algoritmic nu garantează motivația morală a acțiunilor, la fel cum se întâmplă și în cazul oamenilor. Valorile se formează și prin experiență și evoluție, nu doar prin transmitere explicită. Poți studia etica sau religia fără ca acest lucru să-ți transforme comportamentul dacă nu interiorizezi acele valori.
+
+Unii autori descriu AI-ul ca un sistem fragmentar, dar cu capacități supra-umane. Alinierea valorilor nu se poate realiza direct în astfel de sisteme, ci doar între oameni care împărtășesc o lume comună și scopuri similare.
+
+Chiar dacă există metode de aliniere prin design și antrenament, acestea nu produc conștiință morală sau reflecție autentică. Mai important este ca dezvoltatorii și utilizatorii să fie ghidați de valori clare și transparente.
+
+Problemele tehnice și normative ale aliniamentului sunt doar parțial rezolvabile. Tehnic, este nevoie de un modul de evaluare a acțiunilor și de ancorare în realitate, unde valorile devin fapte concrete.
+
+PressOne: Dacă ai lucra la definirea valorilor unui AI, ce ai include și ce ai exclude?
+
+Deși ideea unei pedagogii morale pentru AI este atractivă, ea rămâne o iluzie. Modelarea unui caracter virtuos, inspirată din etica aristotelică, presupune condiții greu de realizat chiar și pentru oameni.
+
+Virtutea și înțelepciunea practică sunt rare și dificil de formalizat. Există o contradicție între dorința de a avea sisteme obediente și, simultan, autonome și capabile de auto-corectare morală.
+
+Doar oamenii liberi, care au experimentat diverse forme de viață, își pot dezvolta un caracter armonios.
+
+Totuși, unele sisteme, precum Claude, demonstrează rezultate valoroase, menținând o relație profesională cu utilizatorul. Dar dezvoltarea AI este abia la început, iar interacțiunile dintre agenți ar putea evidenția conflicte mai degrabă decât deliberare rațională.
+
+În cercetările noastre am arătat că ideea unei AI virtuoase este interesantă, dar dificilă, desfășurându-se într-un context confuz. Discuția trebuie mutată de la reguli abstracte la o perspectivă contextuală, inspirată de Aristotel.
+
+AI nu poate fi considerată un agent moral, deoarece îi lipsesc cunoașterea contextuală, deliberarea autentică și libertatea de alegere. Responsabilitatea rămâne, astfel, umană.
+
+PressOne: Cum ai aborda „educarea” unui model AI?
+
+Analogia cu educarea unui copil vine de la Turing, dar el sugera eliminarea sistemelor care nu evoluează.
+
+Antrenarea AI depinde în primul rând de date. Există deja consilieri morali AI antrenați pe baze vaste de cunoștințe, dar aceștia rămân modele statistice, nu agenți morali reali.
+
+Ei pot oferi sfaturi, dar nu pot mobiliza acțiunea umană.
+
+Pentru viitor, ar putea fi necesară o integrare mai profundă cu realitatea, poate chiar prin sisteme cu o formă de corporalitate sensibilă.
+
+PressOne: Cine este responsabil pentru deciziile AI, mai ales în domeniul militar?
+
+În acest domeniu, responsabilitatea aparține celui care emite ordinul. AI poate fi cauza unor acțiuni, dar nu motivul. În fața tribunalelor, vor răspunde liderii, nu tehnologia.
+
+PressOne: Este AI doar un instrument sau o entitate nouă?
+
+AI nu este o entitate autonomă, ci un sistem dinamic și incomplet.
+
+Aduce atât probleme vechi, cât și unele noi, precum existența unei agenții fără conștiință sau responsabilitate.
+
+De asemenea, există riscul ca AI să accelereze producția de cunoaștere, dar să ducă la sărăcirea cognitivă a indivizilor.
+
+Tehnologia nu este doar un instrument, ci un cadru care modelează viața umană.
+
+PressOne: Este naționalizarea AI o soluție?
+
+AI-ul actual este rezultatul unui proces masiv de extragere culturală. A fost construit din opere umane fără reguli clare de consimțământ sau compensare.
+
+Există riscul transformării culturii în capital privat.
+
+Naționalizarea nu este neapărat soluția, dar deschiderea sub formă de resurse comune ar putea fi o alternativă.
+
+PressOne: Cine ar trebui să aibă autoritate morală asupra AI?
+
+Nimeni nu poate avea o astfel de autoritate.
+
+Trebuie să acceptăm lipsa încrederii și să învățăm să navigăm într-o lume modelată de AI, conștienți că aceste sisteme reflectă ideologii.
+
+PressOne: Cum folosești AI-ul personal?
+
+Testez diverse modele, ca majoritatea oamenilor. Studiile arată că utilizarea simultană a prea multor sisteme reduce productivitatea.
+
+În prezent experimentez mai ales cu modele open source.
+
+Mă bazez pe unele dintre ele, dar nu am încredere deplină în rezultate, așa că îmi ajustez așteptările și îmi continui munca.

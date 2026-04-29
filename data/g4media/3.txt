@@ -1,0 +1,13 @@
+AI ar putea detecta ADHD la copii înainte de apariția simptomelor evidente
+
+Un nou studiu sugerează că inteligența artificială ar putea schimba modul în care este identificată una dintre cele mai frecvente tulburări de dezvoltare la copii. Cercetătorii spun că semnele pot fi detectate mult mai devreme decât în prezent, transmite Euronews citat de Mediafax.
+
+Potrivit cercetării realizate de Duke Health și publicate în Nature Mental Health, un sistem bazat pe inteligență artificială poate analiza dosarele medicale electronice pentru a estima riscul de apariție a ADHD înainte ca diagnosticul să fie pus oficial, scrie Euronews.
+
+Studiul a inclus peste 140.000 de copii, iar modelul AI a fost antrenat să identifice tipare subtile din datele colectate încă din primii ani de viață. Aceste tipare includ elemente de dezvoltare, comportament și istoricul medical care, combinate, pot indica un risc crescut de ADHD. Rezultatele arată că sistemul poate face predicții precise în special pentru copiii de peste cinci ani, menținând acuratețea indiferent de sex, rasă sau statut socio-economic.
+
+ADHD afectează aproximativ 8% dintre copii și adolescenți și se manifestă prin dificultăți de concentrare, impulsivitate și hiperactivitate. Cu toate acestea, mulți copii nu sunt diagnosticați la timp, ceea ce întârzie intervențiile necesare. Cercetătorii subliniază că identificarea timpurie poate face o diferență majoră. Intervențiile aplicate devreme sunt asociate cu rezultate mai bune la școală, în relațiile sociale și în sănătatea generală. „Avem o sursă extrem de bogată de informații în dosarele medicale electronice”, a explicat Elliot Hill, autor principal al studiului. „Ideea a fost să vedem dacă aceste date pot prezice cine va primi ulterior un diagnostic.”
+
+Autorii studiului insistă că tehnologia nu este menită să înlocuiască medicii. Sistemul AI funcționează ca un instrument de sprijin, care ajută specialiștii să identifice mai rapid copiii ce ar putea avea nevoie de evaluări suplimentare. „Nu este un medic AI”, a precizat Matthew Engelhard, unul dintre coordonatorii cercetării. „Este un instrument care ajută clinicianul să prioritizeze cazurile și să reducă timpul de așteptare pentru copii.”
+
+Cercetătorii cred că metode similare ar putea fi folosite și pentru alte afecțiuni de sănătate mintală, în special la adolescenți. Într-un context în care tulburările psihologice sunt tot mai frecvente, astfel de tehnologii ar putea contribui la intervenții mai rapide și mai eficiente. De asemenea, specialiștii atrag atenția că ADHD este adesea subdiagnosticat la fete. În astfel de cazuri, simptomele sunt mai puțin evidente, ceea ce face ca astfel de instrumente predictive să fie cu atât mai utile.
