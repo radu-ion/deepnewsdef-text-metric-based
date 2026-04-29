@@ -1,0 +1,6 @@
+I will give you a text. I want you to rephrase each sentence and compose a text with the same content, but with paraphrased input sentences given in the same order as in the original text.
+Give me only the paraphrased text in the output.
+
+Here is the text:
+
+<TEXT>
