@@ -160,7 +160,7 @@ if __name__ == '__main__':
     crt_time = time.time()
     rnd_seed = int(1e5 * (crt_time - int(crt_time)))
 
-    run_experiment(dataset_dir=os.path.join('data', 'pressone'),
+    run_experiment(dataset_dir=os.path.join('data', 'news_2'),
                    feature_classes=feature_set, generation_method='paraphrase',
                    processor=TextToCoNLLU(processor=StanzaProcessor()),
                    normalization_method='minmax', random_state=rnd_seed)
