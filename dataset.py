@@ -4,9 +4,9 @@ from typing import Dict, List, \
     Tuple, Literal, Union, Type
 import numpy as np
 from sklearn.model_selection import train_test_split
-from tqdm import tqdm
+from conllu.models import SentenceList
+from conllu import parse
 from features import TextFeatures
-from processing import TextToCoNLLU
 
 
 TGLabel = Literal["human", "generated"]
@@ -38,15 +38,15 @@ class TextClassifierDataset:
     def load(
         self,
         generation_method: str,
-    ) -> Tuple[List[str], List[TGLabel], List[str]]:
+    ) -> Tuple[List[Path], List[TGLabel], List[str]]:
         """
         Returns:
-            texts: raw text contents
+            file_paths: paths of the content files
             labels: 'human' or 'generated'
             file_ids: file identifiers, useful for debugging
         """
 
-        texts: List[str] = []
+        file_paths: List[Path] = []
         labels: List[TGLabel] = []
         file_ids: List[str] = []
 
@@ -70,25 +70,22 @@ class TextClassifierDataset:
                 continue
             # end if
 
-            human_text = txt_path.read_text(encoding="utf-8")
-            generated_text = generated_path.read_text(encoding="utf-8")
-
-            texts.append(human_text)
+            file_paths.append(txt_path)
             labels.append("human")
             file_ids.append(article_id)
 
-            texts.append(generated_text)
+            file_paths.append(generated_path)
             labels.append("generated")
             file_ids.append(f"{article_id}_{generation_method}")
         # end for
 
-        if not texts:
+        if not file_paths:
             raise ValueError(
                 f"No human/generated pairs found for generation method: {generation_method}"
             )
         # end if
 
-        return texts, labels, file_ids
+        return file_paths, labels, file_ids
 
     @staticmethod
     def _numeric_sort_key(filename: str) -> int:
@@ -97,9 +94,7 @@ class TextClassifierDataset:
 
 
 class FeatureExtractor:
-    def __init__(self, processor: TextToCoNLLU,
-                 feature_classes: List[Type[TextFeatures]]):
-        self.processor = processor
+    def __init__(self, feature_classes: List[Type[TextFeatures]]):
         self.feature_classes = feature_classes
         self._feature_names: List[str] = []
 
@@ -107,11 +102,33 @@ class FeatureExtractor:
     def feature_names(self) -> List[str]:
         return self._feature_names
 
-    def extract_dicts(self, texts: List[str]) -> List[Dict[str, float]]:
+    def _read_conllu(self, text_file: Path) -> SentenceList:
+        txt_path = Path(text_file)
+
+        if not txt_path.exists():
+            raise FileNotFoundError(f"Input file does not exist: {txt_path}")
+        # end if
+
+        if txt_path.suffix != ".txt":
+            raise ValueError(f"Expected a .txt file, got: {txt_path}")
+        # end if
+
+        conllu_path = txt_path.with_suffix(".conllu")
+
+        # 1. Load cached CoNLL-U if it already exists
+        if conllu_path.exists():
+            with conllu_path.open("r", encoding="utf-8") as f:
+                return parse(f.read())
+            # end with
+        else:
+            raise FileNotFoundError(f"Paired .conllu file does not exist for: {txt_path}")
+        # end if
+
+    def extract_dicts(self, text_files: List[Path]) -> List[Dict[str, float]]:
         rows = []
 
-        for text in tqdm(texts, desc="Processing"):
-            sentences = self.processor.process(text)
+        for fp in text_files:
+            sentences = self._read_conllu(text_file=fp)
             feats = {}
 
             for fty in self.feature_classes:
@@ -142,10 +159,10 @@ class FeatureExtractor:
         return np.nan_to_num(X, nan=0.0, posinf=0.0, neginf=0.0)
 
 
-def make_train_dev_split(texts: List[str], labels: List[TGLabel],
+def make_train_dev_split(file_paths: List[Path], labels: List[TGLabel],
                          file_ids: List[str],
                          dev_size: float = 0.2,
                          random_state: int = 1234):
-    return train_test_split(texts, labels, file_ids,
+    return train_test_split(file_paths, labels, file_ids,
                             test_size=dev_size, random_state=random_state,
                             stratify=labels)

@@ -7,3 +7,7 @@ A small dataset to see if everything runs smoothly has been added to `data/`. Fi
 Tuning needs to be done.
 
 We now have classifiers based on dependency trees and SVMs. Running: `python experiment.py`
+
+## Version 1.1
+
+Added cross-validation (i.e. mean accuracy and standard deviation over 10 runs), and document multi-processing: `python processing.py -n 4 data\news_2`
